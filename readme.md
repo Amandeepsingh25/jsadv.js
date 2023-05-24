@@ -4,7 +4,7 @@ In this way you an use this
 
 ```
 
-const dsa = require('advanceddsa.js');
+const dsa = require('jsadv');
 
 
 const arr = [5,4,3,2,1];
