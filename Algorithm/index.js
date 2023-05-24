@@ -1,6 +1,6 @@
 module.export = {
-    binarySearch: require('./binarysearch'),
-    bubbleSort: require('./bubblesort'),
-    mergeSort: require('./mergesort'),
-    quickSort: require('./quicksort')
+    BinarySearch: require('./binarysearch'),
+    BubbleSort: require('./bubblesort'),
+    MergeSort: require('./mergesort'),
+    QuickSort: require('./quicksort')
 }
