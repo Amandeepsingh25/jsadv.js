@@ -1,6 +1,6 @@
 {
   "name": "jsadv",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "exploring the world of dsa using js ",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "type": "git",
     "url": "https://github.com/Amandeepsingh25/jsadv.js.git"
   },
-  "author": "",
+  "author": "Amandeep Singh",
   "license": "ISC"
 }
