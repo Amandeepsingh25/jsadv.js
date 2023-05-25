@@ -1,6 +1,6 @@
-This is the package that will make you learn the concept of dsa in js about searching sorting and different data-structure algorithm 
+This is the package that will make you learn the concept of dsa in js about searching sorting and different data-structure algorithm, this will change your approch towards the dsa in js.
 
-In this way you an use this 
+In this way you an use this
 
 ```
 
